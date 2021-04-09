@@ -1,0 +1,4 @@
+git add [文件]
+git commit -m "[注释]"
+git remote add [分支名] [远程仓库url]
+git push [-u] [分支名] master 
